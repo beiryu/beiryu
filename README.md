@@ -5,16 +5,16 @@ Full-stack engineer based in Ho Chi Minh City, working across TypeScript, Node.j
 #### Open-source contributions
 
 <!-- oss:start -->
-12 merged pull requests across 7 projects, 12 in review.
+13 merged pull requests across 7 projects, 10 in review.
 
 | Project | Description | Language | Stars | Pull requests |
 |---|---|---|--:|--:|
 | [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | Coding agent memory for Claude Code, Codex, Cursor and 39 more, built… | Go | 1.3k | [10](https://github.com/vshulcz/deja-vu/pulls?q=is%3Apr+author%3Abeiryu) |
-| [google/adk-go](https://github.com/google/adk-go) | An open-source, code-first Go toolkit for building, evaluating, and… | Go | 8.9k | [4](https://github.com/google/adk-go/pulls?q=is%3Apr+author%3Abeiryu) |
 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | The official Go SDK for Model Context Protocol servers and clients | Go | 5.2k | [2](https://github.com/modelcontextprotocol/go-sdk/pulls?q=is%3Apr+author%3Abeiryu) |
+| [google/adk-go](https://github.com/google/adk-go) | An open-source, code-first Go toolkit for building, evaluating, and… | Go | 8.9k | [4](https://github.com/google/adk-go/pulls?q=is%3Apr+author%3Abeiryu) |
 | [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) | Agentic SDLC infrastructure | Go | 602 | [1](https://github.com/chainloop-dev/chainloop/pulls?q=is%3Apr+author%3Abeiryu) |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale | Go | 47.7k | [3](https://github.com/alibaba/open-code-review/pulls?q=is%3Apr+author%3Abeiryu) |
-| [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | The Cloud-Native API Gateway and AI Gateway | Go | 5.7k | [3](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Abeiryu) |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale | Go | 47.8k | [3](https://github.com/alibaba/open-code-review/pulls?q=is%3Apr+author%3Abeiryu) |
+| [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | The Cloud-Native API Gateway and AI Gateway | Go | 5.7k | [2](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Abeiryu) |
 | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | Model Context Protocol (MCP) server for Kubernetes and OpenShift | Go | 2.2k | [1](https://github.com/containers/kubernetes-mcp-server/pulls?q=is%3Apr+author%3Abeiryu) |
 <!-- oss:end -->
 
